@@ -1,0 +1,24 @@
+[
+    {
+        "Author": "shdwp, maintained by Aelexe",
+        "Name": "Fader Plugin (Unofficial)",
+        "Description": "Lets you automatically hide certain game UI elements based on number of conditions.",
+        "InternalName": "faderPluginUnofficial",
+        "AssemblyVersion": "2.2.1.0",
+        "TestingAssemblyVersion": "2.2.1.0",
+        "RepoUrl": "https://github.com/Arinym/xivFaderPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "LoadPriority": 1000    ,
+        "LoadRequiredState": 2,
+        "LoadSync": true,
+        "DownloadLinkInstall": "https://github.com/Arinym/xivFaderPlugin/archive/refs/tags/v2.2.1.0.zip",
+        "DownloadLinkTesting": "https://github.com/Arinym/xivFaderPlugin/archive/refs/tags/v2.2.1.0.zip",
+        "DownloadLinkUpdate": "https://github.com/Arinym/xivFaderPlugin/archive/refs/tags/v2.2.1.0.zip",
+        "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/faderPlugin/images/icon.png"
+    }
+]
